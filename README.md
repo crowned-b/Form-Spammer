@@ -9,7 +9,9 @@ Usage: python spam.py [OPTION]... [URL]
 Spam Web Form with Custom or Random Input.
 
    -l num       sends num amount of loops.
+   
    -i           sends form submits on infinite loop. Ctrl+C to quit.
+   
    -w file      uses wordlist file for textbox submissions.
 
 examples:
