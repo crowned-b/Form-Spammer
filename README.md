@@ -8,8 +8,8 @@ On Linux: python -m pip install mechanize
 Usage: python spam.py [OPTION]... [URL]
 Spam Web Form with Custom or Random Input.
 
-   -l num       sends num amount of loops.
-   -i           sends form submits on infinite loop. Ctrl+C to quit.
+   -l num       sends num amount of loops.\n
+   -i           sends form submits on infinite loop. Ctrl+C to quit.\n
    -w file      uses wordlist file for textbox submissions.
 examples:
    "python spam.py url" - will randomly fill in the form one time.
