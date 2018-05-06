@@ -16,9 +16,14 @@ Spam Web Form with Custom or Random Input.
 examples:
 
 ```    python spam.py url``` - will randomly fill in the form one time.
+
 ```    python -l 2 spam.py url``` - will randomly fill in the form two times.
+
 ```    python -i spam.py url``` - will randomly fill in the form until the user quits the program.
+
 ```    python -w wordlist.txt spam.py url``` - will fill in the form one time, and where there is a text box, it will enter the text in order.
+
 ```   python -l 2 -w wordlist.txt spam.py url``` - fills in form with wordlist twice.
+
 ```   python -i -w wordlist.txt spam.py url``` - fills in form with wordlist until user exits.
 
