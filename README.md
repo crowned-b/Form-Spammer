@@ -1,6 +1,6 @@
 # Surveymonkey-Form-Spammer
 Python script made with intention to spam surveymonkey forms. May work on other forms as well.
-# Setup
+# Prerequisites
 On Windows: ```python.exe -m pip install mechanize```
 
 On Linux: ```python -m pip install mechanize```
