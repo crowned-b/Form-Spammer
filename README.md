@@ -13,7 +13,7 @@ Spam Web Form with Custom or Random Input.
    -i           sends form submits on infinite loop. Ctrl+C to quit.   
    -w file      uses wordlist file for textbox submissions.
 ```
-examples:
+Examples:
 
 ```    python spam.py url``` - will randomly fill in the form one time.
 
