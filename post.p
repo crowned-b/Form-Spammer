@@ -6,7 +6,7 @@ wordlist = []
 go=True
 
 def help():
-   print ("Usage: python spam.py [OPTION]... [URL]\nSpam Web Form with Custom or Random Input.\n\n"
+   print ("Usage: python post.py [OPTION]... [URL]\nPost Web Form with Custom or Random Input.\n\n"
    "   -l num       sends num amount of loops.\n"
    "   -i           sends form submits on infinite loop. Ctrl+C to quit.\n"
    "   -w file      uses wordlist file for textbox submissions."
