@@ -1,13 +1,13 @@
-# Surveymonkey-Form-Spammer
-Python script made with intention to spam surveymonkey forms. May work on other forms as well.
+# Surveymonkey-Form-Submitter
+Python script made with intention to submit a surveymonkey form. May work on other forms as well.
 # Prerequisites
 On Windows: ```python.exe -m pip install mechanize```
 
 On Linux: ```python -m pip install mechanize```
 
 # Usage
-Usage: python spam.py [OPTION]... [URL]
-Spam Web Form with Custom or Random Input.
+Usage: python post.py [OPTION]... [URL]
+Post Web Form with Custom or Random Input.
 ```
    -l num       sends num amount of loops.   
    -i           sends form submits on infinite loop. Ctrl+C to quit.   
